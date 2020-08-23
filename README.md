@@ -10,8 +10,8 @@ pip3 install -r requrements.txt or pip install -r requrements.txt
 
 
 
-explotation example:\n
-python3 changer.py\n
+explotation example:
+python3 changer.py
 Hello from P.M.C console v1.0...(Press any key)
 MacAChanger>start macchange
 Enter your interface:eth0
