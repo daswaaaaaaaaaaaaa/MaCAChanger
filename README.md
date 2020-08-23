@@ -2,8 +2,8 @@
 
 
 installing instruction:\n
-git clone https://github.com/dswaaaaaaaaaaaaa/MaCAChanger.git
-cd MaCAChanger/\n
+git clone https://github.com/daswaaaaaaaaaaaaa/MaCAChanger.git
+cd MaCAChanger/
 pip3 install -r requrements.txt or pip install -r requrements.txt
 
 
