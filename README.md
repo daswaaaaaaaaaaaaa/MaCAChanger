@@ -1,17 +1,17 @@
 # MaCAChanger
 
 
-installing instruction:
+installing instruction:\n
 git clone https://github.com/dswaaaaaaaaaaaaa/MaCAChanger.git
-cd MaCAChanger/
+cd MaCAChanger/\n
 pip3 install -r requrements.txt or pip install -r requrements.txt
 
 
 
 
 
-explotation example:
-python3 changer.py
+explotation example:\n
+python3 changer.py\n
 Hello from P.M.C console v1.0...(Press any key)
 MacAChanger>start macchange
 Enter your interface:eth0
