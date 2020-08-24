@@ -3,15 +3,15 @@ import os
 init(autoreset=True)
 workning = True
 while workning:
-	os.system('cls')
+	os.system('clear')
 	print(Fore.YELLOW + 'Hello from P.M.C console v1.0...(Press any key)')
 	input()
-	os.system('cls')
+	os.system('clear')
 	command = input('MacAChanger>')
 	if(command == 'exit'):
 		workning = False
 	if(command == 'clear'):
-		os.system('cls')
+		os.system('clear')
 	if(command == 'start macchange'):
 		print('The P.M.C Macchanger...')
 		interface = input(Fore.YELLOW + 'Enter your interface:')
